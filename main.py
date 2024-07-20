@@ -7,4 +7,4 @@ my_set1.remove(5)
 #to modify the values
 my_set1.update(my_set2)
 
-print(my_set)
+print(my_set1)
