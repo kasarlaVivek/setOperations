@@ -5,6 +5,6 @@ my_set1.add(7)
 #to remove elements from the set
 my_set1.remove(5)
 #to modify the values
-my_set.update(my_set2)
+my_set1.update(my_set2)
 
 print(my_set)
